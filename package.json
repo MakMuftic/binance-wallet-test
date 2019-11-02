@@ -39,7 +39,7 @@
     "nodemon": "^1.17.4",
     "pg": "^7.4.3",
     "reflect-metadata": "^0.1.12",
-    "sequelize": "^5.12.2",
+    "sequelize": "^5.15.1",
     "umzug": "^2.2.0",
     "winston": "^3.0.0",
     "node-cleanup": "^2.1.2"
